@@ -13,11 +13,18 @@ Sou técnica em informática e estou terminando o Ensino Médio. Atualmente esto
 Cada repositório é mais um passo na minha descoberta, fique à vontade para exprolá-los e dar dicas!
 
 
-### Contato 📧
-
 <a href="https://www.linkedin.com/in/beatrizlandim00/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=beatrizlandim09@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a> <br>
+
+
+### Estatisticas 📈
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
