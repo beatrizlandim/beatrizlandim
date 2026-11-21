@@ -1,7 +1,7 @@
 ## Olá!! Eu sou a Beatriz Landim! 👋 
 
 <img 
-  src="imagens/pc.png" 
+  src="imagens/matrix1.png" 
   alt="img" 
   width="260px" 
   align="right"
