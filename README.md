@@ -1,12 +1,12 @@
-<style>
-h1{
-  border-bottom: none;
-  margin-left:10px;
-}
-</style>
+## Olá!! Eu sou a Beatriz Landim! 👋 
 
+<img 
+  src="https://i.redd.it/4y9r0e5nwvte1.gif" 
+  alt="Gif do Gengar" 
+  width="260px" 
+  align="right"
+/>
 
+# divisao
 
-<div style="width: 500px; height: 40px; background-color: #141414; border: 2px solid #222222; border-radius: 15px;">
-
-<h1>Olá!! Eu sou a Beatriz Landim! 👋 </h1>
+![IMG]([caminho-ou-url-da-imagem.png](https://br.pinterest.com/pin/1110629958106535558/)
