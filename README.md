@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Beatriz Landim! 👋 
+## Olá!! Eu sou a Beatriz Landim! 👩‍💻👋 
 
 <img 
   src="imagens/matrix.png" 
