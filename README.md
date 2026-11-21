@@ -26,5 +26,5 @@ Cada repositório é mais um passo na minha descoberta, fique à vontade para ex
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlandim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
