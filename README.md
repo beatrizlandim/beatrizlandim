@@ -1,8 +1,8 @@
 ## Olá!! Eu sou a Beatriz Landim! 👋 
 
 <img 
-  src="https://i.redd.it/4y9r0e5nwvte1.gif" 
-  alt="Gif do Gengar" 
+  src="imagens/pc.png" 
+  alt="img" 
   width="260px" 
   align="right"
 />
